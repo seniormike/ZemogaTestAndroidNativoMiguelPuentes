@@ -1,0 +1,23 @@
+<resources>
+    // Database name
+    <string name="app_name">Posts</string>
+    // Database name
+    <string name="db_name">PostsDb</string>
+
+    // View components strings
+    <string name="title">Title</string>
+    <string name="posts">Posts</string>
+    <string name="detail">Detail</string>
+    <string name="favoritePosts">Favorite posts</string>
+    <string name="reloadAllPosts">Reload all posts</string>
+    <string name="reloadFavoritePosts">Reload favorite posts</string>
+    <string name="description">Description</string>
+    <string name="user">User</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="website">Website</string>
+    <string name="comments">Comments</string>
+    <string name="deleteAll">Delete All</string>
+    <string name="deleteFavorites">Delete All Favorites</string>
+</resources>
